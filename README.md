@@ -1,1 +1,1 @@
-# Google-Chrome-Login-Data-Decryption-password_value-cookies-
+This script needs to run as a admin.
